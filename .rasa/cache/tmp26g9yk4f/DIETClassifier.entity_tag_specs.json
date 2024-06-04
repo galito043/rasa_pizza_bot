@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-toppings",
+      "2": "I-toppings",
+      "3": "L-toppings",
+      "4": "U-toppings",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-toppings": 1,
+      "I-toppings": 2,
+      "L-toppings": 3,
+      "U-toppings": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]
